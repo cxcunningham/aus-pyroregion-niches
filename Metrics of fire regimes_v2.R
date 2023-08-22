@@ -4,9 +4,6 @@
 # Because file sizes of the satellite datasets are large, we have not provided them on Github, but they will be archived on a public 
 # repository upon publication. 
 
-# The output of this script is a stack of rasters summarising spatiotemporal metrics of Australia's fire regimes, which can
-# be used in the clustering script to delineate Australia's pyroregions.
-
 # This script is broken into the following sections:
 # 1. Organise hotspot data
 # 2. Calculate hotspot density
