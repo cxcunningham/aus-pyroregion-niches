@@ -1,5 +1,5 @@
 # aus-pyroregion-niches
-Delineation of Australia's pyroregions and their risk of regime shifts under climate change.
+Delineation of Australia's pyroregions and their risk of regime shifts under climate change scenarios.
 
 This code accompanies the paper, "Pyrogeography in flux: reorganisation of Australian fire regimes in a hotter world" by Calum X. Cunningham, Grant J. Williamson, Rachael H. Nolan, Lina Teckentrup, Matthias M. Boer, and David M.J.S. Bowman
 
