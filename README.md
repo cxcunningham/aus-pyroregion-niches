@@ -1,4 +1,4 @@
-# Reorganisation of Australia's pyroregions under climate change.
+# Australia's pyroregions under climate change.
 
 This code accompanies the under-review manuscript, "Pyrogeography in flux: reorganisation of Australian fire regimes in a hotter world" by Calum X. Cunningham, Grant J. Williamson, Rachael H. Nolan, Lina Teckentrup, Matthias M. Boer, and David M.J.S. Bowman
 
