@@ -1,6 +1,6 @@
 # Code to delineate Australia's pyroregions and their risk of shifting under climate change.
 
-This code accompanies the under-review paper, "Pyrogeography in flux: reorganisation of Australian fire regimes in a hotter world" by Calum X. Cunningham, Grant J. Williamson, Rachael H. Nolan, Lina Teckentrup, Matthias M. Boer, and David M.J.S. Bowman
+This code accompanies the paper, "Pyrogeography in flux: reorganisation of Australian fire regimes in a hotter world" by Calum X. Cunningham, Grant J. Williamson, Rachael H. Nolan, Lina Teckentrup, Matthias M. Boer, and David M.J.S. Bowman
 
 There are three key scripts involved. 
 1. "Pyroregionalisation functions.R" provides custom functions that are sourced by the other scripts. 
